@@ -6,7 +6,7 @@
         "gplink"
     ],
     "website": "https://github.com/CyberBoyAyush/Go4LinkBot",
-    "repository": "https://github.com/CyberBoyAyush/Go4LinkBot",
+    "repository": "https://github.com/Diyaprakesh123/Go4LinkBot.git",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token",
